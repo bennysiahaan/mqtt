@@ -20,9 +20,9 @@
 #define SERVER_OK 		"200" 
 #define SENSOR_OK 		"400" 
 #define SENSOR_INIT		"401"
-#define SENSOR_PUBLISH	"402"
+#define SENSOR_PUBLISH		"402"
 #define CLIENT_OK 		"600" 
-#define CLIENT_INIT 	"601"
+#define CLIENT_INIT 		"601"
 #define CLIENT_GET 		"602"
 
 #define MAX_STR 32
